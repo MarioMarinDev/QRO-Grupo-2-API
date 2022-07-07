@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "Call of Duty",
+    "imagen": "imagenes/callofduty.jpg",
+    "genero": "Shooter"
+  },
+  {
+    "nombre": "Halo",
+    "imagen": "imagenes/halo.png",
+    "genero": "Shooter"
+  },
+  {
+    "nombre": "Gears of War",
+    "imagen": "imagenes/gearsofwar.jpg",
+    "genero": "Shooter"
+  },
+  {
+    "nombre": "Free Fire",
+    "imagen": "imagenes/freefire.jpg",
+    "genero": "Shooter"
+  },
+  {
+    "nombre": "Minecraft",
+    "imagen": "imagenes/minecraft.jpg",
+    "genero": "Sandbox"
+  },
+  {
+    "nombre": "Geometry Dash",
+    "imagen": "imagenes/geometrydash.png",
+    "genero": "Ritmo"
+  },
+  {
+    "nombre": "Clash Royale",
+    "imagen": "imagenes/clashroyale.jpg",
+    "genero": "Estrategia"
+  },
+  {
+    "nombre": "PK XD",
+    "imagen": "imagenes/pkxd.jpg",
+    "genero": "Convivencia"
+  },
+  {
+    "nombre": "Brawl Stars",
+    "imagen": "imagenes/brawlstars.png",
+    "genero": "Peleas"
+  },
+  {
+    "nombre": "Among Us",
+    "imagen": "imagenes/amongus.jpeg",
+    "genero": "Deducción Social"
+  },
+  {
+    "nombre": "Fortnite",
+    "imagen": "imagenes/fortnite.jpg",
+    "genero": "Shooter"
+  },
+  {
+    "nombre": "Mortal Kombat",
+    "imagen": "imagenes/mortalkombat.jpg",
+    "genero": "Peleas"
+  },
+  {
+    "nombre": "Red Dead Redemption",
+    "imagen": "imagenes/reddeadredeption.jpg",
+    "genero": "Mundo abierto (Aventura)"
+  },
+  {
+    "nombre": "Genshin Impact",
+    "imagen": "imagenes/genshin.jpg",
+    "genero": "Mundo abierto (Aventura)"
+  },
+  {
+    "nombre": "Pacman",
+    "imagen": "imagenes/pacman.png",
+    "genero": "Arcade"
+  },
+  {
+    "nombre": "Gran Theft Auto",
+    "imagen": "imagenes/grantheftauto.png",
+    "genero": "Mundo abierto (Acción)"
+  },
+  {
+    "nombre": "FIFA",
+    "imagen": "imagenes/fifa.jpg",
+    "genero":  "Deportes"
+  },
+  {
+    "nombre": "Fallout",
+    "imagen": "imagenes/fallout.jpg",
+    "genero": "Mundo abierto (Acción)"
+  }
+]
