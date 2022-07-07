@@ -2,7 +2,12 @@
   {
     "nombre": "Call of Duty",
     "imagen": "imagenes/callofduty.jpg",
-    "genero": "Shooter"
+    "genero": "Shooter",
+    "juegos": [
+      "Call of Duty Black Ops",
+      "Call of Duty Black Ops 2",
+      "Call of Duty Black Ops 3"
+    ]
   },
   {
     "nombre": "Halo",
