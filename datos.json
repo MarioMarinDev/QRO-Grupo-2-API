@@ -12,12 +12,14 @@
   {
     "nombre": "Halo",
     "imagen": "imagenes/halo.png",
-    "genero": "Shooter"
+    "genero": "Shooter",
+    "juegos": ["Halo Combat Evolved", "Halo ODST", "Halo 2", "Halo 3", "Halo Reach", "Halo Infinite", "Halo 4", "Halo 5"]
   },
   {
     "nombre": "Gears of War",
     "imagen": "imagenes/gearsofwar.jpg",
-    "genero": "Shooter"
+    "genero": "Shooter",
+    "juegos": ["GoW 1", "GoW 2", "GoW 3", "GoW 4", "GoW 5"]
   },
   {
     "nombre": "Free Fire",
@@ -27,12 +29,14 @@
   {
     "nombre": "Minecraft",
     "imagen": "imagenes/minecraft.jpg",
-    "genero": "Sandbox"
+    "genero": "Sandbox",
+    "juegos": ["Minecraft Java (Obsidian)", "Minecraft Bedrock", "Minecraft Legends", "Minecraft Education", "Minecraft Dungeons"]
   },
   {
     "nombre": "Geometry Dash",
     "imagen": "imagenes/geometrydash.png",
-    "genero": "Ritmo"
+    "genero": "Ritmo",
+    "juegos": ["Geometry Dash: Subzero", "Gemetry Dash: World", "Geometry Dash: Meltdown"]
   },
   {
     "nombre": "Clash Royale",
@@ -62,12 +66,14 @@
   {
     "nombre": "Mortal Kombat",
     "imagen": "imagenes/mortalkombat.jpg",
-    "genero": "Peleas"
+    "genero": "Peleas",
+    "juegos": ["Mortal Kombat X", "Mortal Kombat 11"]
   },
   {
     "nombre": "Red Dead Redemption",
     "imagen": "imagenes/reddeadredemption.jpg",
-    "genero": "Mundo abierto (Aventura)"
+    "genero": "Mundo abierto (Aventura)",
+    "juegos": ["Red Dead Redemption", "Red Dead Redemption 2"]
   },
   {
     "nombre": "Genshin Impact",
@@ -82,7 +88,8 @@
   {
     "nombre": "Gran Theft Auto",
     "imagen": "imagenes/grandtheftauto.png",
-    "genero": "Mundo abierto (Acción)"
+    "genero": "Mundo abierto (Acción)",
+    "juegos": ["GTA 3", "GTA San Andreas", "GTA Vice City", "GTA V"]
   },
   {
     "nombre": "FIFA",
